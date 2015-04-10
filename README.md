@@ -1,0 +1,1 @@
+Re-design Tesla Admin Configurator with Backbone.js. Simplify interface as well as adding normal desktop app functionality. i.e. drag and drop, double click.
