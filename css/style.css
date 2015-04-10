@@ -1,0 +1,52 @@
+#base-price {
+	margin: 15px 0 0 8px;
+}
+#base-price h4 {
+	display: inline;
+}
+#base-price #edit-base-price {
+	display: none;
+}
+#base-price.editing span {
+	display: none;
+}
+#base-price.editing input#edit-base-price {
+	display: inline;
+}
+.category tbody th:first-child {
+	width: 70%;
+}
+.category tbody th:last-child {
+	width: 15%;
+}
+.category .option-price input {
+	display: none;
+}
+.category .editing td span {
+	display: none;
+}
+.category .editing input.edit-option-price {
+	display: inline;
+	box-sizing: border-box;
+  	width:100%
+}
+.sticky-sidebar.affix {
+	width: 360px;
+	top: 20px;
+}
+.inline {
+	display:inline;
+}
+.override-price {
+	width: 105px;
+}
+
+#current-config tfoot td:nth-child(2),  #current-config tfoot td:last-child{
+	width: 20%;
+}
+#current-config .option-drop-zone {
+	border: 2px dashed #ccc;
+}
+#current-config .drag-over {
+	border-color: #666;
+}
